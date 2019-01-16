@@ -14,13 +14,13 @@ See the DRLN project description
 ## Dependencies
 
 The requirements.txt file contains a superset of the project python3 dependencies.
-
+Additional requirements include the Banana Unity Environment from Udacity.
 
 ## Instructions
 
 1. To Train a model:
 
-python train.py --episodes 1500 -m some_model_name --no_graphics
+python train.py --episodes 1000 -m some_model_name --no_graphics
 
 
 2. To Use/Test the model:

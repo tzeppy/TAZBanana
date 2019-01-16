@@ -1,4 +1,7 @@
 
+# Project Summary
+
+I ran out of time; would have loved to explore Unity agents/brains more.
 
 # Algorithm
 
